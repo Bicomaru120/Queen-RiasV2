@@ -9,16 +9,16 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = 'EmmyGold' //ur owner name
 /*--------------------------------------------*/
 
 // Information
 global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.ownernumber = '2349065102361' //ur owner number
+global.premium = ["2349065102361"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
+global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
